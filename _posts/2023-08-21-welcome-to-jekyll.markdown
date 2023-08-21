@@ -17,6 +17,15 @@ export CPPFLAGS="-I/opt/homebrew/opt/openssl@1.1/include"
 ruby-install ruby 3.1.3
 {% endhighlight %}
 
+After I was able to get this website live with jekyll/resolve the issue, I wanted to answer a few questions:
+- what are LDFLAGS?  
+- why is openssl so ubiquitious? what purpose does it serve?
+- why would you ever want to use ruby?
+
+And a few random questions:
+- can I use obsidian to create these blog posts? (the answer is a resounding yes)
+
+
 ## What are LDFLAGS?
 From ChatGippity, with some paraphrasing by me:  
 
